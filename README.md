@@ -1,4 +1,1 @@
-TopCoder
-========
-
-で解いた問題を置く場所.
+SRMやCodeforcesで解いた問題
