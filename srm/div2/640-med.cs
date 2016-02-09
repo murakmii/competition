@@ -21,7 +21,7 @@ public class NumberGameAgain {
 
       // 数値の範囲の重複がなくなるよう統廃合する
       // もっと綺麗に書けんのか
-      // 範囲の数は上記ループより最大8000程度のはずなので、ここのループも8000^2くらいで済むはず
+      // 範囲の数は上記ループより最大800程度のはずなので、ここのループも800^2くらいで済むはず
       var invalid = new bool[start.Count];
       for (int i = 0; i < start.Count; i++) {
          if (invalid[i]) {
